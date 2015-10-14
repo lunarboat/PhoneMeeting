@@ -9,11 +9,50 @@
 /* Begin PBXBuildFile section */
 		3E1E1AEC1B9197130047F13E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1AEB1B9197130047F13E /* main.m */; };
 		3E1E1AEF1B9197130047F13E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1AEE1B9197130047F13E /* AppDelegate.m */; };
-		3E1E1AF21B9197130047F13E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1AF11B9197130047F13E /* ViewController.m */; };
 		3E1E1AF51B9197130047F13E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1AF31B9197130047F13E /* Main.storyboard */; };
 		3E1E1AF71B9197130047F13E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1AF61B9197130047F13E /* Images.xcassets */; };
 		3E1E1AFA1B9197130047F13E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1AF81B9197130047F13E /* LaunchScreen.xib */; };
 		3E1E1B061B9197130047F13E /* PhoneMeetingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B051B9197130047F13E /* PhoneMeetingTests.m */; };
+		3E1E1B251B9197970047F13E /* 001.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B101B9197970047F13E /* 001.png */; };
+		3E1E1B261B9197970047F13E /* 002.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B111B9197970047F13E /* 002.png */; };
+		3E1E1B271B9197970047F13E /* 003.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B121B9197970047F13E /* 003.png */; };
+		3E1E1B281B9197970047F13E /* 004.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B131B9197970047F13E /* 004.png */; };
+		3E1E1B291B9197970047F13E /* 005.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B141B9197970047F13E /* 005.png */; };
+		3E1E1B2A1B9197970047F13E /* 006.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B151B9197970047F13E /* 006.png */; };
+		3E1E1B2B1B9197970047F13E /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B161B9197970047F13E /* background.jpg */; };
+		3E1E1B2C1B9197970047F13E /* baitiao.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B171B9197970047F13E /* baitiao.png */; };
+		3E1E1B2D1B9197970047F13E /* bg3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B181B9197970047F13E /* bg3.png */; };
+		3E1E1B2E1B9197970047F13E /* bg4-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B191B9197970047F13E /* bg4-2.png */; };
+		3E1E1B2F1B9197970047F13E /* bg4.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B1A1B9197970047F13E /* bg4.png */; };
+		3E1E1B301B9197970047F13E /* biaotop.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B1B1B9197970047F13E /* biaotop.png */; };
+		3E1E1B311B9197970047F13E /* dbTipBg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B1C1B9197970047F13E /* dbTipBg.png */; };
+		3E1E1B321B9197970047F13E /* huiyizhuti.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B1D1B9197970047F13E /* huiyizhuti.png */; };
+		3E1E1B331B9197970047F13E /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B1E1B9197970047F13E /* Icon.png */; };
+		3E1E1B341B9197970047F13E /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B1F1B9197970047F13E /* logo.png */; };
+		3E1E1B351B9197970047F13E /* logo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B201B9197970047F13E /* logo2.png */; };
+		3E1E1B361B9197970047F13E /* nvbg2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B211B9197970047F13E /* nvbg2.png */; };
+		3E1E1B371B9197970047F13E /* qunzuhuiyi.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B221B9197970047F13E /* qunzuhuiyi.png */; };
+		3E1E1B381B9197970047F13E /* t2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B231B9197970047F13E /* t2.png */; };
+		3E1E1B391B9197970047F13E /* window.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B241B9197970047F13E /* window.png */; };
+		3E1E1B3C1B9198880047F13E /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B3B1B9198880047F13E /* MainViewController.m */; };
+		3E1E1B451B91E2190047F13E /* UserRegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B441B91E2190047F13E /* UserRegisterViewController.m */; };
+		3E1E1B4D1B91FD600047F13E /* Meeting.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B4C1B91FD600047F13E /* Meeting.m */; };
+		3E1E1B501B91FD920047F13E /* PersonNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B4F1B91FD920047F13E /* PersonNumber.m */; };
+		3E1E1B531B91FDA00047F13E /* Group.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B521B91FDA00047F13E /* Group.m */; };
+		3E1E1B561B9285DA0047F13E /* ImmediateMeetingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B551B9285DA0047F13E /* ImmediateMeetingViewController.m */; };
+		3E1E1B591B92E4220047F13E /* DateBaseUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B581B92E4220047F13E /* DateBaseUtil.m */; };
+		3E1E1B5C1B92E4730047F13E /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B5B1B92E4730047F13E /* Podfile */; };
+		3E1E1B5E1B92E7670047F13E /* phoneMeeting.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 3E1E1B5D1B92E7670047F13E /* phoneMeeting.sqlite */; };
+		3E1E1B611B92EA6F0047F13E /* PersonNumberDAO.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B601B92EA6F0047F13E /* PersonNumberDAO.m */; };
+		3E1E1B641B92EA840047F13E /* MeetingDAO.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B631B92EA840047F13E /* MeetingDAO.m */; };
+		3E1E1B671B92EA980047F13E /* GroupDAO.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B661B92EA980047F13E /* GroupDAO.m */; };
+		3E1E1B6D1B93027C0047F13E /* AppointmentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B6C1B93027C0047F13E /* AppointmentViewController.m */; };
+		3E1E1B701B931AB50047F13E /* AppointmentMeetingSetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B6F1B931AB50047F13E /* AppointmentMeetingSetViewController.m */; };
+		3E1E1B731B93D0C90047F13E /* GroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B721B93D0C90047F13E /* GroupViewController.m */; };
+		3E1E1B761B93D7230047F13E /* NewGroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B751B93D7230047F13E /* NewGroupViewController.m */; };
+		3E1E1B791B93F3850047F13E /* GroupCellViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B781B93F3850047F13E /* GroupCellViewController.m */; };
+		3E1E1B7C1B943C050047F13E /* HistoryMeetingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E1E1B7B1B943C050047F13E /* HistoryMeetingViewController.m */; };
+		5FA974E49D16203AD6465A3D /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DA2F960F3DC6ACD857116CD3 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,14 +71,70 @@
 		3E1E1AEB1B9197130047F13E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3E1E1AED1B9197130047F13E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3E1E1AEE1B9197130047F13E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3E1E1AF01B9197130047F13E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3E1E1AF11B9197130047F13E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3E1E1AF41B9197130047F13E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3E1E1AF61B9197130047F13E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3E1E1AF91B9197130047F13E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		3E1E1AFF1B9197130047F13E /* PhoneMeetingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhoneMeetingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E1E1B041B9197130047F13E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E1E1B051B9197130047F13E /* PhoneMeetingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PhoneMeetingTests.m; sourceTree = "<group>"; };
+		3E1E1B101B9197970047F13E /* 001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 001.png; sourceTree = "<group>"; };
+		3E1E1B111B9197970047F13E /* 002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 002.png; sourceTree = "<group>"; };
+		3E1E1B121B9197970047F13E /* 003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 003.png; sourceTree = "<group>"; };
+		3E1E1B131B9197970047F13E /* 004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 004.png; sourceTree = "<group>"; };
+		3E1E1B141B9197970047F13E /* 005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 005.png; sourceTree = "<group>"; };
+		3E1E1B151B9197970047F13E /* 006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 006.png; sourceTree = "<group>"; };
+		3E1E1B161B9197970047F13E /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		3E1E1B171B9197970047F13E /* baitiao.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baitiao.png; sourceTree = "<group>"; };
+		3E1E1B181B9197970047F13E /* bg3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg3.png; sourceTree = "<group>"; };
+		3E1E1B191B9197970047F13E /* bg4-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg4-2.png"; sourceTree = "<group>"; };
+		3E1E1B1A1B9197970047F13E /* bg4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg4.png; sourceTree = "<group>"; };
+		3E1E1B1B1B9197970047F13E /* biaotop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = biaotop.png; sourceTree = "<group>"; };
+		3E1E1B1C1B9197970047F13E /* dbTipBg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dbTipBg.png; sourceTree = "<group>"; };
+		3E1E1B1D1B9197970047F13E /* huiyizhuti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = huiyizhuti.png; sourceTree = "<group>"; };
+		3E1E1B1E1B9197970047F13E /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		3E1E1B1F1B9197970047F13E /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		3E1E1B201B9197970047F13E /* logo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo2.png; sourceTree = "<group>"; };
+		3E1E1B211B9197970047F13E /* nvbg2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nvbg2.png; sourceTree = "<group>"; };
+		3E1E1B221B9197970047F13E /* qunzuhuiyi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = qunzuhuiyi.png; sourceTree = "<group>"; };
+		3E1E1B231B9197970047F13E /* t2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = t2.png; sourceTree = "<group>"; };
+		3E1E1B241B9197970047F13E /* window.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = window.png; sourceTree = "<group>"; };
+		3E1E1B3A1B9198880047F13E /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		3E1E1B3B1B9198880047F13E /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		3E1E1B431B91E2190047F13E /* UserRegisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserRegisterViewController.h; sourceTree = "<group>"; };
+		3E1E1B441B91E2190047F13E /* UserRegisterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserRegisterViewController.m; sourceTree = "<group>"; };
+		3E1E1B4B1B91FD600047F13E /* Meeting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Meeting.h; sourceTree = "<group>"; };
+		3E1E1B4C1B91FD600047F13E /* Meeting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Meeting.m; sourceTree = "<group>"; };
+		3E1E1B4E1B91FD920047F13E /* PersonNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonNumber.h; sourceTree = "<group>"; };
+		3E1E1B4F1B91FD920047F13E /* PersonNumber.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonNumber.m; sourceTree = "<group>"; };
+		3E1E1B511B91FDA00047F13E /* Group.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Group.h; sourceTree = "<group>"; };
+		3E1E1B521B91FDA00047F13E /* Group.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Group.m; sourceTree = "<group>"; };
+		3E1E1B541B9285DA0047F13E /* ImmediateMeetingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImmediateMeetingViewController.h; sourceTree = "<group>"; };
+		3E1E1B551B9285DA0047F13E /* ImmediateMeetingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImmediateMeetingViewController.m; sourceTree = "<group>"; };
+		3E1E1B571B92E4220047F13E /* DateBaseUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DateBaseUtil.h; sourceTree = "<group>"; };
+		3E1E1B581B92E4220047F13E /* DateBaseUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DateBaseUtil.m; sourceTree = "<group>"; };
+		3E1E1B5B1B92E4730047F13E /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		3E1E1B5D1B92E7670047F13E /* phoneMeeting.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; name = phoneMeeting.sqlite; path = ../phoneMeeting.sqlite; sourceTree = "<group>"; };
+		3E1E1B5F1B92EA6F0047F13E /* PersonNumberDAO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonNumberDAO.h; sourceTree = "<group>"; };
+		3E1E1B601B92EA6F0047F13E /* PersonNumberDAO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonNumberDAO.m; sourceTree = "<group>"; };
+		3E1E1B621B92EA840047F13E /* MeetingDAO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeetingDAO.h; sourceTree = "<group>"; };
+		3E1E1B631B92EA840047F13E /* MeetingDAO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeetingDAO.m; sourceTree = "<group>"; };
+		3E1E1B651B92EA980047F13E /* GroupDAO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroupDAO.h; sourceTree = "<group>"; };
+		3E1E1B661B92EA980047F13E /* GroupDAO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroupDAO.m; sourceTree = "<group>"; };
+		3E1E1B6B1B93027C0047F13E /* AppointmentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppointmentViewController.h; sourceTree = "<group>"; };
+		3E1E1B6C1B93027C0047F13E /* AppointmentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppointmentViewController.m; sourceTree = "<group>"; };
+		3E1E1B6E1B931AB50047F13E /* AppointmentMeetingSetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppointmentMeetingSetViewController.h; sourceTree = "<group>"; };
+		3E1E1B6F1B931AB50047F13E /* AppointmentMeetingSetViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppointmentMeetingSetViewController.m; sourceTree = "<group>"; };
+		3E1E1B711B93D0C90047F13E /* GroupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroupViewController.h; sourceTree = "<group>"; };
+		3E1E1B721B93D0C90047F13E /* GroupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroupViewController.m; sourceTree = "<group>"; };
+		3E1E1B741B93D7230047F13E /* NewGroupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewGroupViewController.h; sourceTree = "<group>"; };
+		3E1E1B751B93D7230047F13E /* NewGroupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewGroupViewController.m; sourceTree = "<group>"; };
+		3E1E1B771B93F3850047F13E /* GroupCellViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroupCellViewController.h; sourceTree = "<group>"; };
+		3E1E1B781B93F3850047F13E /* GroupCellViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroupCellViewController.m; sourceTree = "<group>"; };
+		3E1E1B7A1B943C050047F13E /* HistoryMeetingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HistoryMeetingViewController.h; sourceTree = "<group>"; };
+		3E1E1B7B1B943C050047F13E /* HistoryMeetingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HistoryMeetingViewController.m; sourceTree = "<group>"; };
+		681338359BA90A6771D1961F /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		A9AF441707F1D54447565644 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		DA2F960F3DC6ACD857116CD3 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +142,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FA974E49D16203AD6465A3D /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,9 +159,12 @@
 		3E1E1ADD1B9197130047F13E = {
 			isa = PBXGroup;
 			children = (
+				3E1E1B5B1B92E4730047F13E /* Podfile */,
 				3E1E1AE81B9197130047F13E /* PhoneMeeting */,
 				3E1E1B021B9197130047F13E /* PhoneMeetingTests */,
 				3E1E1AE71B9197130047F13E /* Products */,
+				4745F47548FB154135609AC4 /* Pods */,
+				FEDA2138EDD739D4C372932F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -83,8 +182,10 @@
 			children = (
 				3E1E1AED1B9197130047F13E /* AppDelegate.h */,
 				3E1E1AEE1B9197130047F13E /* AppDelegate.m */,
-				3E1E1AF01B9197130047F13E /* ViewController.h */,
-				3E1E1AF11B9197130047F13E /* ViewController.m */,
+				3E1E1B5A1B92E42B0047F13E /* Datebase */,
+				3E1E1B461B91FCA90047F13E /* VC */,
+				3E1E1B4A1B91FCE80047F13E /* Model */,
+				3E1E1B471B91FCBB0047F13E /* View */,
 				3E1E1AF31B9197130047F13E /* Main.storyboard */,
 				3E1E1AF61B9197130047F13E /* Images.xcassets */,
 				3E1E1AF81B9197130047F13E /* LaunchScreen.xib */,
@@ -96,6 +197,8 @@
 		3E1E1AE91B9197130047F13E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3E1E1B5D1B92E7670047F13E /* phoneMeeting.sqlite */,
+				3E1E1B0F1B9197970047F13E /* image */,
 				3E1E1AEA1B9197130047F13E /* Info.plist */,
 				3E1E1AEB1B9197130047F13E /* main.m */,
 			);
@@ -119,6 +222,111 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		3E1E1B0F1B9197970047F13E /* image */ = {
+			isa = PBXGroup;
+			children = (
+				3E1E1B101B9197970047F13E /* 001.png */,
+				3E1E1B111B9197970047F13E /* 002.png */,
+				3E1E1B121B9197970047F13E /* 003.png */,
+				3E1E1B131B9197970047F13E /* 004.png */,
+				3E1E1B141B9197970047F13E /* 005.png */,
+				3E1E1B151B9197970047F13E /* 006.png */,
+				3E1E1B161B9197970047F13E /* background.jpg */,
+				3E1E1B171B9197970047F13E /* baitiao.png */,
+				3E1E1B181B9197970047F13E /* bg3.png */,
+				3E1E1B191B9197970047F13E /* bg4-2.png */,
+				3E1E1B1A1B9197970047F13E /* bg4.png */,
+				3E1E1B1B1B9197970047F13E /* biaotop.png */,
+				3E1E1B1C1B9197970047F13E /* dbTipBg.png */,
+				3E1E1B1D1B9197970047F13E /* huiyizhuti.png */,
+				3E1E1B1E1B9197970047F13E /* Icon.png */,
+				3E1E1B1F1B9197970047F13E /* logo.png */,
+				3E1E1B201B9197970047F13E /* logo2.png */,
+				3E1E1B211B9197970047F13E /* nvbg2.png */,
+				3E1E1B221B9197970047F13E /* qunzuhuiyi.png */,
+				3E1E1B231B9197970047F13E /* t2.png */,
+				3E1E1B241B9197970047F13E /* window.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		3E1E1B461B91FCA90047F13E /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				3E1E1B3A1B9198880047F13E /* MainViewController.h */,
+				3E1E1B3B1B9198880047F13E /* MainViewController.m */,
+				3E1E1B431B91E2190047F13E /* UserRegisterViewController.h */,
+				3E1E1B441B91E2190047F13E /* UserRegisterViewController.m */,
+				3E1E1B541B9285DA0047F13E /* ImmediateMeetingViewController.h */,
+				3E1E1B551B9285DA0047F13E /* ImmediateMeetingViewController.m */,
+				3E1E1B6B1B93027C0047F13E /* AppointmentViewController.h */,
+				3E1E1B6C1B93027C0047F13E /* AppointmentViewController.m */,
+				3E1E1B6E1B931AB50047F13E /* AppointmentMeetingSetViewController.h */,
+				3E1E1B6F1B931AB50047F13E /* AppointmentMeetingSetViewController.m */,
+				3E1E1B711B93D0C90047F13E /* GroupViewController.h */,
+				3E1E1B721B93D0C90047F13E /* GroupViewController.m */,
+				3E1E1B741B93D7230047F13E /* NewGroupViewController.h */,
+				3E1E1B751B93D7230047F13E /* NewGroupViewController.m */,
+				3E1E1B771B93F3850047F13E /* GroupCellViewController.h */,
+				3E1E1B781B93F3850047F13E /* GroupCellViewController.m */,
+				3E1E1B7A1B943C050047F13E /* HistoryMeetingViewController.h */,
+				3E1E1B7B1B943C050047F13E /* HistoryMeetingViewController.m */,
+			);
+			name = VC;
+			sourceTree = "<group>";
+		};
+		3E1E1B471B91FCBB0047F13E /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		3E1E1B4A1B91FCE80047F13E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3E1E1B4B1B91FD600047F13E /* Meeting.h */,
+				3E1E1B4C1B91FD600047F13E /* Meeting.m */,
+				3E1E1B4E1B91FD920047F13E /* PersonNumber.h */,
+				3E1E1B4F1B91FD920047F13E /* PersonNumber.m */,
+				3E1E1B511B91FDA00047F13E /* Group.h */,
+				3E1E1B521B91FDA00047F13E /* Group.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		3E1E1B5A1B92E42B0047F13E /* Datebase */ = {
+			isa = PBXGroup;
+			children = (
+				3E1E1B571B92E4220047F13E /* DateBaseUtil.h */,
+				3E1E1B581B92E4220047F13E /* DateBaseUtil.m */,
+				3E1E1B5F1B92EA6F0047F13E /* PersonNumberDAO.h */,
+				3E1E1B601B92EA6F0047F13E /* PersonNumberDAO.m */,
+				3E1E1B621B92EA840047F13E /* MeetingDAO.h */,
+				3E1E1B631B92EA840047F13E /* MeetingDAO.m */,
+				3E1E1B651B92EA980047F13E /* GroupDAO.h */,
+				3E1E1B661B92EA980047F13E /* GroupDAO.m */,
+			);
+			name = Datebase;
+			sourceTree = "<group>";
+		};
+		4745F47548FB154135609AC4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A9AF441707F1D54447565644 /* Pods.debug.xcconfig */,
+				681338359BA90A6771D1961F /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		FEDA2138EDD739D4C372932F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DA2F960F3DC6ACD857116CD3 /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -126,9 +334,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3E1E1B091B9197130047F13E /* Build configuration list for PBXNativeTarget "PhoneMeeting" */;
 			buildPhases = (
+				70CC226FD9489E1DCE806BAD /* Check Pods Manifest.lock */,
 				3E1E1AE21B9197130047F13E /* Sources */,
 				3E1E1AE31B9197130047F13E /* Frameworks */,
 				3E1E1AE41B9197130047F13E /* Resources */,
+				4CCFDED81E14A4EF5FFAEFFB /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -199,9 +409,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E1E1B381B9197970047F13E /* t2.png in Resources */,
+				3E1E1B331B9197970047F13E /* Icon.png in Resources */,
+				3E1E1B281B9197970047F13E /* 004.png in Resources */,
+				3E1E1B2F1B9197970047F13E /* bg4.png in Resources */,
+				3E1E1B301B9197970047F13E /* biaotop.png in Resources */,
+				3E1E1B2B1B9197970047F13E /* background.jpg in Resources */,
 				3E1E1AF51B9197130047F13E /* Main.storyboard in Resources */,
+				3E1E1B361B9197970047F13E /* nvbg2.png in Resources */,
 				3E1E1AFA1B9197130047F13E /* LaunchScreen.xib in Resources */,
+				3E1E1B321B9197970047F13E /* huiyizhuti.png in Resources */,
+				3E1E1B5C1B92E4730047F13E /* Podfile in Resources */,
 				3E1E1AF71B9197130047F13E /* Images.xcassets in Resources */,
+				3E1E1B2E1B9197970047F13E /* bg4-2.png in Resources */,
+				3E1E1B271B9197970047F13E /* 003.png in Resources */,
+				3E1E1B371B9197970047F13E /* qunzuhuiyi.png in Resources */,
+				3E1E1B351B9197970047F13E /* logo2.png in Resources */,
+				3E1E1B5E1B92E7670047F13E /* phoneMeeting.sqlite in Resources */,
+				3E1E1B2D1B9197970047F13E /* bg3.png in Resources */,
+				3E1E1B341B9197970047F13E /* logo.png in Resources */,
+				3E1E1B311B9197970047F13E /* dbTipBg.png in Resources */,
+				3E1E1B261B9197970047F13E /* 002.png in Resources */,
+				3E1E1B2A1B9197970047F13E /* 006.png in Resources */,
+				3E1E1B2C1B9197970047F13E /* baitiao.png in Resources */,
+				3E1E1B391B9197970047F13E /* window.png in Resources */,
+				3E1E1B251B9197970047F13E /* 001.png in Resources */,
+				3E1E1B291B9197970047F13E /* 005.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,14 +447,62 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		4CCFDED81E14A4EF5FFAEFFB /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		70CC226FD9489E1DCE806BAD /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		3E1E1AE21B9197130047F13E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3E1E1AF21B9197130047F13E /* ViewController.m in Sources */,
 				3E1E1AEF1B9197130047F13E /* AppDelegate.m in Sources */,
+				3E1E1B701B931AB50047F13E /* AppointmentMeetingSetViewController.m in Sources */,
+				3E1E1B6D1B93027C0047F13E /* AppointmentViewController.m in Sources */,
+				3E1E1B731B93D0C90047F13E /* GroupViewController.m in Sources */,
+				3E1E1B3C1B9198880047F13E /* MainViewController.m in Sources */,
+				3E1E1B671B92EA980047F13E /* GroupDAO.m in Sources */,
+				3E1E1B531B91FDA00047F13E /* Group.m in Sources */,
+				3E1E1B641B92EA840047F13E /* MeetingDAO.m in Sources */,
+				3E1E1B451B91E2190047F13E /* UserRegisterViewController.m in Sources */,
+				3E1E1B7C1B943C050047F13E /* HistoryMeetingViewController.m in Sources */,
+				3E1E1B761B93D7230047F13E /* NewGroupViewController.m in Sources */,
+				3E1E1B561B9285DA0047F13E /* ImmediateMeetingViewController.m in Sources */,
+				3E1E1B4D1B91FD600047F13E /* Meeting.m in Sources */,
+				3E1E1B791B93F3850047F13E /* GroupCellViewController.m in Sources */,
+				3E1E1B591B92E4220047F13E /* DateBaseUtil.m in Sources */,
 				3E1E1AEC1B9197130047F13E /* main.m in Sources */,
+				3E1E1B611B92EA6F0047F13E /* PersonNumberDAO.m in Sources */,
+				3E1E1B501B91FD920047F13E /* PersonNumber.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,6 +628,7 @@
 		};
 		3E1E1B0A1B9197130047F13E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9AF441707F1D54447565644 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = PhoneMeeting/Info.plist;
@@ -357,6 +639,7 @@
 		};
 		3E1E1B0B1B9197130047F13E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 681338359BA90A6771D1961F /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = PhoneMeeting/Info.plist;
@@ -418,6 +701,7 @@
 				3E1E1B0B1B9197130047F13E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3E1E1B0C1B9197130047F13E /* Build configuration list for PBXNativeTarget "PhoneMeetingTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +710,7 @@
 				3E1E1B0E1B9197130047F13E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
